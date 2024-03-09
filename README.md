@@ -25,5 +25,5 @@
 ### 提交Pull request
 ##### 这个是干什么的，你懂的（我更新很慢的）[Pull request](https://github.com/Enigma-Soul/TianCaiKeJi/pulls)
 ### 我最需要的
-##### 君子爱财，取之有道
+##### 君子爱财，取之有道{如果不行的话，不要吝啬你的star}
 ![付款](https://github.com/Enigma-Soul/TianCaiKeJi/assets/119654171/cf5a4057-bdf9-4e39-932c-6f678d09bade)
