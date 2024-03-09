@@ -1,5 +1,5 @@
 # 甜菜科技（别怪我起这名）
->##### [声明](https://github.com/Enigma-Soul/TianCaiKeJi/edit/main/README.md#%E5%A3%B0%E6%98%8E-1)
+>##### [声明](https://github.com/Enigma-Soul/TianCaiKeJi?tab=readme-ov-file#声明-1
 >>##### [本人](https://github.com/Enigma-Soul/TianCaiKeJi/edit/main/README.md#%E6%9C%AC%E4%BA%BA-1)
 >>##### [软件](https://github.com/Enigma-Soul/TianCaiKeJi/edit/main/README.md#%E8%BD%AF%E4%BB%B6-1)
 >##### [教程](https://github.com/Enigma-Soul/TianCaiKeJi/edit/main/README.md#%E6%95%99%E7%A8%8B-1)
