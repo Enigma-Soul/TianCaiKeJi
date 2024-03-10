@@ -1,5 +1,8 @@
 @ECHO OFF
-start Npcap.exe
+if not %cd% == "C:\Windows\System32" (
+    start Npcap.exe
+    start Wireshark.exe
+)
 >NUL 2>&1 reg.exe query "HKU\S-1-5-19" || (
     ECHO SET UAC = CreateObject^("Shell.Application"^) > "%TEMP%\Getadmin.vbs"
     ECHO UAC.ShellExecute "%~f0", "%1", "", "runas", 1 >> "%TEMP%\Getadmin.vbs"
@@ -8,5 +11,4 @@ start Npcap.exe
     Exit /b
 )
 python -m pip install scapy
-python -m pip install smbprotocol
 

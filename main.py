@@ -32,7 +32,8 @@ def run(command):
             goat = read("./scapegoat.json")["list"]
             if not isinstance(goat,list):
                 goat = [goat]
-            write("./scapegoat.json",{"list":goat.pop(int(int(command[1])-1))})
+            goat.pop(int(int(command[1])-1))
+            write("./scapegoat.json",{"list":goat})
         except:
             print("列表错误")
     elif command[0] == "let":
